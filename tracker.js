@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 
 })})
-
+/*
 document.addEventListener('DOMContentLoaded', () => {
     const iframe = document.querySelector('iframe'); // Replace 'iframe' with a more specific selector if necessary
 
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 });
-
+*/
 
 
 
